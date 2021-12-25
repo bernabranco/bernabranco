@@ -2,7 +2,6 @@
 - 👀 I’m interested in technology and art
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on generative projects
-- 📫 How to reach me ...
 
 <!---
 bernabranco/bernabranco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
